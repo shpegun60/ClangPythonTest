@@ -2,6 +2,10 @@
 - [anaconda](https://anaconda.org/conda-forge/clang)
 - [pip](https://pypi.org/project/libclang/)
 
+## Problems with C/C++ languages
+- https://clang.llvm.org/docs/Modules.html?utm_source=chatgpt.com#problems-with-the-current-model
+
+
 ## Example
 
 ```cpp
