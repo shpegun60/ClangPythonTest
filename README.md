@@ -1,13 +1,21 @@
+## Intro
+I am going to use LibClang as it is independent of CLang versions, you can also use LibTooling
+
 ## Need Modules
 - [anaconda](https://anaconda.org/conda-forge/clang)
 - [pip](https://pypi.org/project/libclang/)
 
-
 ## Links
+- [docs](https://clang.llvm.org/doxygen/modules.html)
 - [Problems with C/C++ languages](https://clang.llvm.org/docs/Modules.html?utm_source=chatgpt.com#problems-with-the-current-model)
+### LibClang
 - [libclang docs](https://clang.llvm.org/doxygen/group__CINDEX.html)
+- [libclang tutorial](https://clang.llvm.org/docs/LibClang.html)
+- [tutorial2](https://shaharmike.com/cpp/libclang/)
+### LibTooling
+- [LibTooling tutorial](https://clang.llvm.org/docs/LibTooling.html)
 
-## Example
+## example.cpp
 
 ```cpp
 #include <iostream>
